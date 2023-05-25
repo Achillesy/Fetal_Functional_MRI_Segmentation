@@ -15,4 +15,4 @@ This program can be directly
 ----
 ![upload_guide](figures/upload_guide.png)
 ----
-![maks_result](figures/2013_ses_T1.png)
+![maks_result](figures/2013_ses_T1.gif)
